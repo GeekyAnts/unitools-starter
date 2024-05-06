@@ -1,0 +1,11 @@
+{
+  "version": "0.0.0",
+  "name": "screens",
+  "main": "index.ts",
+  "dependencies": {
+    "@unitools/image": "*",
+    "@unitools/link": "*",
+    "@unitools/router": "*"
+  },
+  "sideEffects": false
+}
